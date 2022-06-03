@@ -1,0 +1,187 @@
+Genus,Species,Call,Call_type,Age,Sex,Hierarchy,Context,Environment,Facial_expression,Description,References
+Pongo,pygmaeus,Ahor call,Long-distance call,Adult,Male,Both,Agonistic,Wild,Relaxed open mouth,Inhalatory gasp followed by explosive exhalatory grunt,Hardus2009a
+Pongo,pygmaeus,Bark,Long-distance call,Adult,Male,Both,Alarm,Wild,Open mouth,Single sharp exhalation,"MacKinnon1974, Hardus2009a"
+Pongo,pygmaeus,Bark,Long-distance call,Adult,Male,Both,Agonistic,Wild,Open mouth,Single sharp exhalation,"MacKinnon1974, Hardus2009a"
+Pongo,pygmaeus,Complex call,Long-distance call,Adult,Both,Both,Agonistic,Wild,String of rolling guttural noises,Bouts of Grumph alternated by Rolling calls,"MacKinnon1974, Hardus2009a"
+Pongo,pygmaeus,Crying,Long-distance call,Immature,Both,Both,Distress,Wild,Wide open mouth with lips protruded,Loud vocalization interspersed with cramped chonking,"MacKinnon1974, Hardus2009a"
+Pongo,pygmaeus,Fast long call,Long-distance call,Juvenile,Male,Both,Alarm,Wild,NA,Sequence of Ahoor-like pulses ending with a bubbling sound,"Galdikas_Insley1988, Hardus2009a"
+Pongo,pygmaeus,Kiss-squeak,Long-distance call,All,Both,Both,Alarm,Wild,Pursed trumpet-like lips,Sharp intake of air that cause a sharp kiss sound,"Hardus2009a, Lameira2012, Lameira2013a, Lameira2017, Lameira2021"
+Pongo,pygmaeus,Long call,Long-distance call,Adult,Male,Both,Alarm,Wild,NA,Composed by three parts: grumbles (1) – pulses (2) – bubbles (3),"MacKinnon1974, Galdikas1983, Mitani1985, MitraSetia2007, Lameira2008, Hardus2009a, Delgado2010, Spillmann2010"
+Pongo,pygmaeus,Lork,Long-distance call,Adult,Female,Both,Alarm,Wild,NA,Similar to long call tail-off with noiser pulses,"MacKinnon1974, Hardus2009a"
+Pongo,pygmaeus,Roar,Long-distance call,Adult,Female,Both,Agonistic,Wild,NA,Exhalatory roaring,Hardus2009a
+Pongo,pygmaeus,Squeak,Long-distance call,Immature,Both,Both,Affiliative,Captive,NA,Sharp rasping emitted in bouts,Hardus2009a
+Pongo,pygmaeus,Ahh,Close call,All,Both,Both,Play,Wild,NA,NA,Hardus2009a
+Pongo,pygmaeus,Bared-theet scream,Close call,All,Both,Both,Agonistic,Wild,Wide open mouth with teeth and gums exposed,Composed by one or several drawn-out hoarse scream,Hardus2009a
+Pongo,pygmaeus,Chomp,Close call,Adult,Male,Both,Agonistic,Wild,Chewing movements with jaws,Bubbling sound produced by the tangue in a party closed mouth,"Rijksen1978, Hardus2009a"
+Pongo,pygmaeus,Contact uff,Close call,All,Both,Both,Affiliative,Wild,No facial expression,Short repetitive expulsions of ait through the nose,"Rijksen1978, Hardus2009a"
+Pongo,pygmaeus,Fear squeak,Close call,Adult,Female,Both,Copulation,Wild,Single sharp squeak,Single sharp squeak,"MacKinnon1974, Hardus2009a"
+Pongo,pygmaeus,Frustration scream,Close call,Immature,Both,Both,Feeding,Wild,NA,Similar to soft hoot with long wails punctuated by short staccato gasps,Hardus2009a
+Pongo,pygmaeus,Frustration whine,Close call,Adult,Female,Both,Copulation,Wild,NA,Similar to Frustration Scream with shorter wails and constant tone,Hardus2009a
+Pongo,pygmaeus,Gorkum,Close call,All,Both,Both,Alarm,Wild,Swollen throat pouch,Bouts of Grumph alternated by Rolling calls,"MacKinnon1974, Hardus2009a"
+Pongo,pygmaeus,Grumble,Close call,Adult,Male,Both,Agonistic,Wild,NA,Atonal quickly repeating vocalization,"Davila-Ross2002, Hardus2009a"
+Pongo,pygmaeus,Grumble,Close call,Adult,Male,Both,Copulation,Wild,NA,Atonal quickly repeating vocalization,"Davila-Ross2002, Hardus2009a"
+Pongo,pygmaeus,Grumph,Close call,All,Both,Both,Alarm,Wild,NA,Inhalatory belch-like vocalization,"Hardus2009a, Lameira2012, Lameira2017, Lameira2021"
+Pongo,pygmaeus,Grunt,Close call,Adult,Both,Subordinate,Play,Wild,NA,Soft and low rasping sound,Hardus2009a
+Pongo,pygmaeus,Mating squeals,Close call,Adult,Female,Both,Copulation,Wild,NA,Exhalatory queaky vocalization,"MacKinnon1974, Hardus2009"
+Pongo,pygmaeus,Nestsmacks,Close call,All,Both,Both,Play,Wild,NA,Soft smack,Hardus2009a
+Pongo,pygmaeus,Nestsmacks,Close call,All,Both,Both,Nesting,Wild,NA,Soft smack,Hardus2009a
+Pongo,pygmaeus,Play hoo,Close call,Immature,Both,Both,Play,Wild,NA,Resemble an owl oe-oe call with faster tempo,Hardus2009a
+Pongo,pygmaeus,Raspberry,Close call,All,Both,Both,Nesting,Wild,Protruded lips,Faint exhalatory sputtering sound,"MacKinnon1974, Hardus2009"
+Pongo,pygmaeus,Rolling call,Close call,Adult,Both,Both,Alarm,Wild,NA,Composed by several low frequency units which resemble the ones of grumbles,Hardus2009a
+Pongo,pygmaeus,Soft hoot,Close call,Immature,Both,Both,Distress,Wild,NA,Exhalatory nagging vocalization,Hardus2009a
+Pongo,pygmaeus,Throatscrape,Close call,Adult,Both,Subordinate,Affiliative,Wild,NA,Soft scraping sound,"Rijksen1978, Hardus2009a"
+Pongo,pygmaeus,Whine,Close call,All,Female,Both,Copulation,Captive,NA,Vocalization similar to soft hoot interspersed with choking of air,Hardus2009a
+Pongo,pygmaeus,Click,Close call,All,Both,Both,Unknown,Captive,Moving the tongue,Indipendent manoeuvring over lips and tangue,Lameira2015
+Pongo,pygmaeus,Faux-speech,Close call,All,Both,Both,Unknown,Captive,Supralaryngeal,Involves vocal folds action and supralaryngeal modulation,Lameira2015
+Pongo,pygmaeus,Whistling,Long-distance call,All,Both,Both,Unknown,Captive,NA,NA,Lameira2013
+Pongo,abelii,Ahor call,Long-distance call,Adult,Male,Both,Agonistic,Wild,Relaxed open mouth,Inhalatory gasp followed by explosive exhalatory grunt,Hardus2009a
+Pongo,abelii,Bark,Long-distance call,Adult,Male,Both,Alarm,Wild,Open mouth,Single sharp exhalation,Hardus2009a
+Pongo,abelii,Bark,Long-distance call,Adult,Male,Both,Agonistic,Wild,Open mouth,Single sharp exhalation,Hardus2009a
+Pongo,abelii,Complex call,Long-distance call,Adult,Both,Both,Agonistic,Wild,String of rolling guttural noises,Bouts of Grumph alternated by Rolling calls,Hardus2009a
+Pongo,abelii,Crying,Long-distance call,Immature,Both,Both,Distress,Wild,Wide open mouth with lips protruded,Loud vocalization interspersed with cramped chonking,Hardus2009a
+Pongo,abelii,Fast long call,Long-distance call,Juvenile,Male,Both,Alarm,Wild,NA,Sequence of Ahoor-like pulses ending with a bubbling sound,Hardus2009a
+Pongo,abelii,Kiss-squeak,Long-distance call,All,Both,Both,Alarm,Wild,Pursed trumpet-like lips,Sharp intake of air that cause a sharp kiss sound,"Hardus2009a, Lameira2012, Lameira2013a, Lameira2021"
+Pongo,abelii,Long call,Long-distance call,Adult,Male,Both,Alarm,Wild,NA,Composed by three parts: grumbles (1) – pulses (2) – bubbles (3),"Hardus2009a, Delgado2010"
+Pongo,abelii,Lork,Long-distance call,Adult,Female,Both,Alarm,Wild,NA,Similar to long call tail-off with noiser pulses,Hardus2009a
+Pongo,abelii,Roar,Long-distance call,Adult,Female,Both,Agonistic,Wild,NA,Exhalatory roaring,Hardus2009a
+Pongo,abelii,Squeak,Long-distance call,Immature,Both,Both,Affiliative,Captive,NA,Sharp rasping emitted in bouts,Hardus2009a
+Pongo,abelii,Ahh,Close call,All,Both,Both,Play,Wild,NA,NA,Hardus2009a
+Pongo,abelii,Bared-theet scream,Close call,All,Both,Both,Agonistic,Wild,Wide open mouth with teeth and gums exposed,Composed by one or several drawn-out hoarse scream,Hardus2009a
+Pongo,abelii,Chomp,Close call,Adult,Male,Both,Agonistic,Wild,Chewing movements with jaws,Bubbling sound produced by the tangue in a party closed mouth,Hardus2009a
+Pongo,abelii,Contact uff,Close call,All,Both,Both,Affiliative,Wild,No facial expression,Short repetitive expulsions of ait through the nose,Hardus2009a
+Pongo,abelii,Fear squeak,Close call,Adult,Female,Both,Copulation,Wild,Single sharp squeak,Single sharp squeak,Hardus2009a
+Pongo,abelii,Frustration scream,Close call,Immature,Both,Both,Feeding,Wild,NA,Similar to soft hoot with long wails punctuated by short staccato gasps,Hardus2009a
+Pongo,abelii,Frustration whine,Close call,Adult,Female,Both,Copulation,Wild,NA,Similar to Frustration Scream with shorter wails and constant tone,Hardus2009a
+Pongo,abelii,Gorkum,Close call,All,Both,Both,Alarm,Wild,Swollen throat pouch,Bouts of Grumph alternated by Rolling calls,Hardus2009a
+Pongo,abelii,Grinding,Close call,All,Both,Both,Distress,Captive,Teeth grinding,Loud grinding of the teeth,Rijksen1978
+Pongo,abelii,Grumble,Close call,Adult,Male,Both,Agonistic,Wild,NA,Atonal quickly repeating vocalization,Davila-Ross2002
+Pongo,abelii,Grumble,Close call,Adult,Male,Both,Copulation,Wild,NA,Atonal quickly repeating vocalization,Davila-Ross2002
+Pongo,abelii,Grumph,Close call,All,Both,Both,Alarm,Wild,NA,Inhalatory belch-like vocalization,"Hardus2009a, Lameira2012, Lameira2017, Lameira2021"
+Pongo,abelii,Grunt,Close call,Adult,Both,Subordinate,Play,Wild,NA,Soft and low rasping sound,Hardus2009a
+Pongo,abelii,Mating squeals,Close call,Adult,Female,Both,Copulation,Wild,NA,Exhalatory queaky vocalization,Hardus2009a
+Pongo,abelii,Play hoo,Close call,Immature,Both,Both,Play,Wild,NA,Resemble an owl oe-oe call with faster tempo,Hardus2009a
+Pongo,abelii,Raspberry,Close call,All,Both,Both,Nesting,Wild,Protruded lips,Faint exhalatory sputtering sound,Hardus2009a
+Pongo,abelii,Rolling call,Close call,Adult,Both,Both,Alarm,Wild,NA,Composed by several low frequency units which resemble the ones of grumbles,Hardus2009a
+Pongo,abelii,Soft hoot,Close call,Immature,Both,Both,Distress,Wild,NA,Exhalatory nagging vocalization,Hardus2009a
+Pongo,abelii,Whine,Close call,All,Female,Both,Copulation,Captive,NA,Vocalization similar to soft hoot interspersed with choking of air,Hardus2009a
+Pongo,abelii,Whistling,Long-distance call,All,Both,Both,Unknown,Captive,NA,NA,Lameira2013
+Gorilla,beringei,Bark (Hiccup + question + hoot barks),Long-distance call,Adult,Both,Both,Alarm,Wild,NA,Lump category that includes all the bark like vocalization (Hiccup – Question – Hoot) that resemble a “who-who” sound,Fossey1972
+Gorilla,beringei,Bark (hoot barks),Long-distance call,All,Both,Both,Affiliative,Wild,NA,Lump category that includes all the bark like vocalization (Hiccup – Question – Hoot) that resemble a “who-who” sound,Fossey1972
+Gorilla,beringei,Cough grunt (Pant series),Long-distance call,Adult,Both,Dominant,Agonistic,Wild,NA,Lump category that includes all the grunt like vocalization (Pant series – Pig grunts) characterized by rapid sequence of expulsions of air,Fossey1972
+Gorilla,beringei,Cough grunt (Pig grunts),Long-distance call,Adult,Both,Both,Affiliative,Wild,NA,Lump category that includes all the grunt like vocalization (Pant series – Pig grunts) characterized by rapid sequence of expulsions of air,Fossey1972
+Gorilla,beringei,Cry,Long-distance call,Immature,Both,Both,Distress,Wild,NA,Lump category that includes wails sobs hooting and screeches,Fossey1972
+Gorilla,beringei,Hoot + chest beat,Long-distance call,All,Both,Both,Affiliative,Wild,NA,Prolonged series of “hoo hoo hoo” made with air sac that end with a chest beat,Fossey1972
+Gorilla,beringei,Hoot series,Long-distance call,Adult,Male,Dominant,Affiliative,Wild,NA,Prolonged series of “hoo hoo hoo” made with air sac,"Fossey1972, Perlman2017"
+Gorilla,beringei,Roar (Wraagh),Long-distance call,All,Both,Both,Alarm,Wild,NA,Lump category that includes all the roar like vocalization (Wraagh – Roar) characterized by explosive monosyllabic loud sound,Fossey1972
+Gorilla,beringei,Roar (Roar),Long-distance call,Adult,Male,Dominant,Agonistic,Wild,NA,Lump category that includes all the roar like vocalization (Wraagh – Roar) characterized by explosive monosyllabic loud sound,Fossey1972
+Gorilla,beringei,Scream,Long-distance call,All,Both,Both,Agonistic,Wild,NA,Shrill and prolonged emission of loud sound,Fossey1972
+Gorilla,beringei,Scream,Long-distance call,Adult,Female,Both,Copulation,Wild,NA,Shrill and prolonged emission of loud sound,Fossey1972
+Gorilla,beringei,Whimper,Long-distance call,All,Both,Both,Distress,Wild,NA,Prolonged plaintive sound,Fossey1972
+Gorilla,beringei,Whinny,Long-distance call,Adult,Male,Both,Alarm,Wild,NA,Horse neighing like vocalization produced with air sac,"Fossey1972, Perlman2017"
+Gorilla,beringei,Atonal grunt (a1),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,beringei,Copulation grunt,Close call,Adult,Male,Dominant,Copulation,Wild,NA,Series of short soft hoots which became more prolungated and finally merged to a long howl-like note,Fossey1972
+Gorilla,beringei,Cuckle,Close call,Immature,Both,Both,Play,Wild,Resemble a smile,Raspy expiration of noise that verged between pants and grunts,Fossey1972
+Gorilla,beringei,Growl,Close call,Adult,Male,Dominant,Alarm,Wild,Changing of facial expression,Deep gluttural prolonged noise,Fossey1972
+Gorilla,beringei,Grumble (t4),Close call,All,Both,Both,Play,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,beringei,Grumble (t4),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,beringei,Grumble (t4),Close call,All,Both,Both,Grooming,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,beringei,Long hum (t3),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Sharp articulated growl and longer hum,"Hedwig2014, Luef2016"
+Gorilla,beringei,Raspberry,Close call,All,Both,Both,Unknown,Wild,Protruded lips,Blowing air through the lips to produce a farting sound,"Robbins2016, Perlman_Clark2015"
+Gorilla,beringei,Short hum (t1),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Sharp articulated growl and longer hum,"Hedwig2014, Luef2016"
+Gorilla,beringei,Sing,Close call,Immature,Both,Both,Feeding,Wild,NA,NA,"Fossey1972, Luef2016"
+Gorilla,beringei,Tonal grunt (t2),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,gorilla,Bark (Hiccup + question + hoot barks),Long-distance call,Adult,Both,Both,Alarm,Wild,NA,Lump category that includes all the bark like vocalization (Hiccup – Question – Hoot) that resemble a “who-who” sound,Salmi2013
+Gorilla,gorilla,Bark (hoot barks),Long-distance call,All,Both,Both,Affiliative,Wild,NA,Lump category that includes all the bark like vocalization (Hiccup – Question – Hoot) that resemble a “who-who” sound,Salmi2013
+Gorilla,gorilla,Cough grunt (Pant series),Long-distance call,Adult,Both,Dominant,Agonistic,Wild,NA,Lump category that includes all the grunt like vocalization (Pant series – Pig grunts) characterized by rapid sequence of expulsions of air,Salmi2013
+Gorilla,gorilla,Cough grunt (Pig grunts),Long-distance call,Adult,Both,Both,Affiliative,Wild,NA,Lump category that includes all the grunt like vocalization (Pant series – Pig grunts) characterized by rapid sequence of expulsions of air,Salmi2013
+Gorilla,gorilla,Cry,Long-distance call,Immature,Both,Both,Distress,Wild,NA,Lump category that includes wails sobs hooting and screeches,Salmi2013
+Gorilla,gorilla,Hoot + chest beat,Long-distance call,All,Both,Both,Affiliative,Wild,NA,Prolonged series of “hoo hoo hoo” made with air sac that end with a chest beat,"Salmi2013, Salmi2020"
+Gorilla,gorilla,Hoot series,Long-distance call,Adult,Male,Both,Affiliative,Wild,NA,Prolonged series of “hoo hoo hoo” made with air sac,"Salmi2013, Salmi2014, Perlman2017"
+Gorilla,gorilla,Roar (Wraagh),Long-distance call,All,Both,Both,Alarm,Wild,NA,Lump category that includes all the roar like vocalization (Wraagh – Roar) characterized by explosive monosyllabic loud sound,Salmi2013
+Gorilla,gorilla,Roar (Roar),Long-distance call,Adult,Male,Dominant,Agonistic,Wild,NA,Lump category that includes all the roar like vocalization (Wraagh – Roar) characterized by explosive monosyllabic loud sound,Salmi2013
+Gorilla,gorilla,Scream,Long-distance call,All,Both,Both,Agonistic,Wild,NA,Shrill and prolonged emission of loud sound,Salmi2013
+Gorilla,gorilla,Scream,Long-distance call,Adult,Female,Both,Copulation,Wild,NA,Shrill and prolonged emission of loud sound,Salmi2013
+Gorilla,gorilla,Whimper,Long-distance call,All,Both,Both,Distress,Wild,NA,Prolonged plaintive sound,Salmi2013
+Gorilla,gorilla,Whinny,Long-distance call,Adult,Male,Both,Alarm,Wild,NA,Horse neighing like vocalization produced with air sac,"Salmi2013, Perlman2017"
+Gorilla,gorilla,Atonal grunt (a1),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,gorilla,Copulation grunt,Close call,Adult,Male,Dominant,Copulation,Wild,NA,Series of short soft hoots which became more prolungated and finally merged to a long howl-like note,Salmi2013
+Gorilla,gorilla,Cuckle,Close call,Immature,Both,Both,Play,Wild,Resemble a smile,Raspy expiration of noise that verged between pants and grunts,Salmi2013
+Gorilla,gorilla,Grumble (t4),Close call,All,Both,Both,Play,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,gorilla,Grumble (t4),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,gorilla,Grumble (t4),Close call,All,Both,Both,Grooming,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Gorilla,gorilla,Long hum (t3),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Sharp articulated growl and longer hum,"Hedwig2014, Luef2016"
+Gorilla,gorilla,Sex-whinny,Close call,Adult,Male,Dominant,Copulation,Wild,NA,Vocalization produced with air sac,"Salmi2013, Perlman2017"
+Gorilla,gorilla,Short hum (t1),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Sharp articulated growl and longer hum,"Hedwig2014, Luef2016"
+Gorilla,gorilla,Sing,Close call,Immature,Both,Both,Feeding,Wild,NA,NA,"Salmi2013, Luef2016"
+Gorilla,gorilla,Tonal grunt (t2),Close call,All,Both,Both,Feeding,Wild,Mouth closed,Staccato-like grunts of short duration,Hedwig2014
+Pan,troglodytes,Alert hoo,Long-distance call,All,Both,Both,Alarm,Wild,Unprotruded little rounded lips with jaw close,Tonal call with most energy at onset. They are longer louder and with more frequency modulation than Rest hoos,"Sayfarth_Cheney2012, Schel2013b, Crockford2018"
+Pan,troglodytes,Hunt bark,Long-distance call,All,Both,Both,Alarm,Wild,Unprotruded little rounded lips with jaw open,Dome-shaped calls that sound like ‘waa’ to human ear. HB start with a low frequency ‘w’ introduction at call onset followed by frequency modulation in the ‘aa’,"Crockford2003, Grawunder2022"
+Pan,troglodytes,Hunt bark,Long-distance call,All,Both,Both,Hunt,Wild,Unprotruded little rounded lips with jaw open,Dome-shaped calls that sound like ‘waa’ to human ear. HB start with a low frequency ‘w’ introduction at call onset followed by frequency modulation in the ‘aa’,"Crockford2003, Grawunder2022"
+Pan,troglodytes,Laugher,Long-distance call,All,Both,Both,Play,Wild,NA,Alternating ingressive-egressive breathing pattern delivered in an irregular rhythm,"Plooij1984, Slocombe_Zuberbuhler2010"
+Pan,troglodytes,Pant hoot,Long-distance call,All,Both,Both,Feeding,Wild,Very protruded rounded lips,Vocalization described by 4 phases: a brief introduction the build-up phase that increase in loudness the climax that is the loudest part of the sequence and the let-down phase that resemble the build-up phase,"Marler_Hobbett1975, Arcadi1996 , Clark_Wrangham1993, Crockford2004, Notman2005, Fedurek2017"
+Pan,troglodytes,Pant hoot,Long-distance call,All,Both,Both,Affiliative,Wild,Very protruded rounded lips,Vocalization described by 4 phases: a brief introduction the build-up phase that increase in loudness the climax that is the loudest part of the sequence and the let-down phase that resemble the build-up phase,"Marler_Hobbett1975, Arcadi1996 , Clark_Wrangham1993, Crockford2004, Notman2005, Fedurek2017"
+Pan,troglodytes,Pant hoot,Long-distance call,All,Both,Both,Travel,Wild,Very protruded rounded lips,Vocalization described by 4 phases: a brief introduction the build-up phase that increase in loudness the climax that is the loudest part of the sequence and the let-down phase that resemble the build-up phase,"Marler_Hobbett1975, Arcadi1996 , Clark_Wrangham1993, Crockford2004, Notman2005, Fedurek2017"
+Pan,troglodytes,Scream,Long-distance call,All,Both,Both,Agonistic,Wild,Retracted and unrounded lips,High amplitude vocalizations,"Mitani1995, Siebert_Parr2003, Slocombe_Zuberbuhler2007, Grawunder2022"
+Pan,troglodytes,Squeak,Long-distance call,All,Both,Both,Alarm,Wild,NA,Series of short calls that made short bouts,"Plooij1984, Slocombe_Zuberbuhler2010"
+Pan,troglodytes,Travel bark,Long-distance call,All,Both,Both,Agonistic,Wild,Unprotruded little rounded lips with jaw open,Dome-shaped calls that sound like ‘waa’ to human ear.,"Crockford2003, Grawunder2022"
+Pan,troglodytes,Travel bark,Long-distance call,All,Both,Both,Affiliative,Wild,Unprotruded little rounded lips with jaw open,Dome-shaped calls that sound like ‘waa’ to human ear.,"Crockford2003, Grawunder2022"
+Pan,troglodytes,Travel bark,Long-distance call,All,Both,Both,Travel,Wild,Unprotruded little rounded lips with jaw open,Dome-shaped calls that sound like ‘waa’ to human ear.,"Crockford2003, Grawunder2022"
+Pan,troglodytes,Whimper,Long-distance call,All,Both,Subordinate,Agonistic,Wild,NA,Short tonal vocalization produced in a series,Dezecache2020
+Pan,troglodytes,Copulation call,Close call,All,Both,Both,Copulation,Wild,NA,Acoustic distinct vocalization produced prior to during or after copulation,"Marler_Tenaza1977, Townsend_Zuberbuhler2009"
+Pan,troglodytes,Extended grunt,Close call,All,Both,Both,Unknown,Captive,Unprotruded unrounded lips with jaw close,Voiced atonal sound,"Hopkins2007, Taglialatela2012, Grawunder2022"
+Pan,troglodytes,Grunt,Close call,All,Both,Subordinate,Affiliative,Wild,Unprotruded unrounded lips with jaw close,Short tonal sounds that resemble human vowels fug fog and fag,"Dezecache2020, Grawunder2022"
+Pan,troglodytes,Hoo grunt,Close call,All,Both,Both,Feeding,Wild,Unprotruded unrounded lips with jaw close combined with very protruded rounded lips,Series of hoos and grunt joined with inhaled elements,"Crockford_Boesch2005, Grawunder2022"
+Pan,troglodytes,Hoo grunt,Close call,All,Both,Both,Nesting,Wild,Unprotruded unrounded lips with jaw close combined with very protruded rounded lips,Series of hoos and grunt joined with inhaled elements,"Crockford_Boesch2005, Grawunder2022"
+Pan,troglodytes,Kisses,Close call,All,Both,Both,Unknown,Wild,Pursed lips,Inhalating air through the lips,"Taglialatela2012, Grawunder2022"
+Pan,troglodytes,Lip smack,Close call,All,Both,Both,Unknown,Captive,Lips movement with jaw close,Produced by placing upper and lower lips tightly together then pulling them apart quickly making audible ‘pop’ sound,"Taglialatela2012, Pereira2020"
+Pan,troglodytes,Pant,Close call,All,Both,Both,Feeding,Wild,Little protruded unrounded lips with jaw open,Audible rapid rhythmic sequence of inhaling and exhaling,"Taglialatela2012, Grawunder2022"
+Pan,troglodytes,Pant,Close call,All,Both,Both,Affiliative,Wild,Little protruded unrounded lips with jaw open,Audible rapid rhythmic sequence of inhaling and exhaling,"Taglialatela2012, Grawunder2022"
+Pan,troglodytes,Pant,Close call,All,Both,Both,Grooming,Wild,Little protruded unrounded lips with jaw open,Audible rapid rhythmic sequence of inhaling and exhaling,"Taglialatela2012, Grawunder2022"
+Pan,troglodytes,Pant grunt,Close call,All,Both,Both,Affiliative,Wild,Jaw closed with very protruded lips switching from little and very rounded ,Series of broad band acoustic element,"Mitani1996, Laporte_Zuberbuhler2010, Grawunder2022"
+Pan,troglodytes,Raspberry,Close call,All,Both,Both,Agonistic,Captive,Protruded lips,Blowing air through the lips to produce a farting sound,"Marshall1999, Taglialatela2012, Grawunder2022"
+Pan,troglodytes,Rest hoo,Close call,All,Both,Both,Alarm,Wild,Very protruded rounded lips,Tonal call with most energy at onset. They are short tonal low pitched vocalizations.,"Sayfarth_Cheney2012, Schel2013b, Crockford2018"
+Pan,troglodytes,Rough grunt (Food grunt),Close call,All,Both,Both,Feeding,Wild,Unprotruded unrounded lips with jaw close,Uttered at the start of feeding bout. Acoustically distinct call variants are elicited by food of different quality,"Marler_Tenaza1977, Schel2013a, Watson2015"
+Pan,troglodytes,Teeth chomps,Close call,All,Both,Both,Alarm,Captive,Clacking teeth,Sound originated by the hitting of upper and lower jaws,"Crockford_Boesch2005, Taglialatela2012"
+Pan,troglodytes,Travel hoo,Close call,All,Both,Both,Travel,Wild,Very protruded rounded lips,Tonal call with most energy at onset,"Sayfarth_Cheney2012, Schel2013b, Crockford2018"
+Pan,paniscus,Contest hooting,Long-distance call,All,Both,Both,Alarm,Wild,Teeth-baring in the middle of the call,Unmodulated pure call with one or two calls emitted per second that sound like ‘wee-wee-wee’.,"DeWaal1988, Genty2014"
+Pan,paniscus,Contest hooting,Long-distance call,All,Both,Dominant,Agonistic,Wild,Teeth-baring in the middle of the call,Unmodulated pure call with one or two calls emitted per second that sound like ‘wee-wee-wee’.,"DeWaal1988, Genty2014"
+Pan,paniscus,Bark,Long-distance call,All,Both,Both,Alarm,Wild,Mouth widely open and lips slightly pouted covering the teeth,Single very loud sound with frequency peak near the middle,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Bark,Long-distance call,All,Both,Both,Feeding,Wild,Mouth widely open and lips slightly pouted covering the teeth,Single very loud sound with frequency peak near the middle,"DeWaal1988, Bermejo_Omedes1999, Clay_Zuberbuhler2009"
+Pan,paniscus,Full scream,Long-distance call,All,Both,Both,Agonistic,Wild,Teeth-baring with lips retraction exposing both teeth and gums. The mouth may be wide open,Bonobos’ most intense vocal display. The shrill and rasping sounds are given at full vocal strenght.,"DeWaal1988, Mitani1995, Bermejo_Omedes1999"
+Pan,paniscus,Scream-bark,Long-distance call,All,Both,Both,Alarm,Wild,Teeth-baring with lips retraction exposing both teeth and gums. The mouth may be wide open,Bark with a scream component. Both the beginning and the end of the scream are tonal with the frequency ascending and descending as in a bark,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Scream-bark,Long-distance call,All,Both,Both,Play,Wild,Teeth-baring with lips retraction exposing both teeth and gums. The mouth may be wide open,Bark with a scream component. Both the beginning and the end of the scream are tonal with the frequency ascending and descending as in a bark,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Scream-whistle,Long-distance call,All,Both,Both,Copulation,Wild,Teeth-baring with lips retraction exposing both teeth and gums. The mouth may be wide open,Intermediate between ‘peep-yelp’ and ‘full scream’. It is like a whistle with a scream-like sctructure,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Soft bark,Long-distance call,All,Both,Both,Alarm,Wild,NA,Short call of medium intensity with one frequency peak and only one harmonic,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Soft bark,Long-distance call,All,Both,Both,Play,Wild,NA,Short call of medium intensity with one frequency peak and only one harmonic,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Soft bark,Long-distance call,All,Both,Both,Feeding,Wild,NA,Short call of medium intensity with one frequency peak and only one harmonic,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Soft bark,Long-distance call,All,Both,Both,Agonistic,Wild,NA,Short call of medium intensity with one frequency peak and only one harmonic,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Whistle-bark,Long-distance call,All,Both,Both,Agonistic,Wild,May have teeth-baring,Single loud high-pitched sound. Shorter than a bark and resemble a whistle,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,High hooting,Close call,All,Both,Both,Play,Wild,Mouth opened with slightly pouted lips covering the teeth,Rhythmic series of barks of similar shape and structure. Occasionally start with 1-3 whistles.,"DeWaal1988, Hohmann1994, Schamberg2017, Keenan2020"
+Pan,paniscus,High hooting,Close call,All,Both,Both,Feeding,Wild,Mouth opened with slightly pouted lips covering the teeth,Rhythmic series of barks of similar shape and structure. Occasionally start with 1-3 whistles.,"DeWaal1988, Hohmann1994, Schamberg2017, Keenan2020"
+Pan,paniscus,High hooting,Close call,All,Both,Both,Nesting,Wild,Mouth opened with slightly pouted lips covering the teeth,Rhythmic series of barks of similar shape and structure. Occasionally start with 1-3 whistles.,"DeWaal1988, Hohmann1994, Schamberg2017, Keenan2020"
+Pan,paniscus,Composed bark,Close call,All,Both,Both,Alarm,Wild,NA,Composed by two parts never recorded on its own. The first part is similar to a pout moan but with lower frequency. The second part is like a bark with one peak which usually starts with noise.,Bermejo_Omedes1999
+Pan,paniscus,Composed bark,Close call,All,Both,Both,Feeding,Wild,NA,Composed by two parts never recorded on its own. The first part is similar to a pout moan but with lower frequency. The second part is like a bark with one peak which usually starts with noise.,Bermejo_Omedes1999
+Pan,paniscus,Composed bark,Close call,All,Both,Both,Affiliative,Wild,NA,Composed by two parts never recorded on its own. The first part is similar to a pout moan but with lower frequency. The second part is like a bark with one peak which usually starts with noise.,Bermejo_Omedes1999
+Pan,paniscus,Croak,Close call,Immature,Both,Both,Play,Wild,NA,Short and low call that can be variable in shape. Structured in harmonics and mixed with noise.,Bermejo_Omedes1999
+Pan,paniscus,Grunt,Close call,All,Both,Both,Affiliative,Wild,No play face involved,Short breathy vocal unit uttered in a rhythm of one or two grunts per second,"DeWaal1988, Bermejo_Omedes1999, Clay_Zuberbuhler2009"
+Pan,paniscus,Hiccup,Close call,All,Both,Both,Play,Wild,NA,Very short call with a rapid increase of frequency,Bermejo_Omedes1999
+Pan,paniscus,Hiccup,Close call,All,Both,Both,Feeding,Wild,NA,Very short call with a rapid increase of frequency,Bermejo_Omedes1999
+Pan,paniscus,Hiccup,Close call,All,Both,Both,Grooming,Wild,NA,Very short call with a rapid increase of frequency,Bermejo_Omedes1999
+Pan,paniscus,Low hooting,Close call,All,Both,Both,Alarm,Wild,Silent teeth-baring with pouted lips,Rhythmic series of barks in which both inspirations and expirations are vocalized.,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Muffled bark,Close call,Immature,Both,Both,Play,Wild,NA,Short call of medium intensity with a shape that resemble a bark. Final frequency much higher than initial one.,Bermejo_Omedes1999
+Pan,paniscus,Panting laugh,Close call,All,Female,Subordinate,Play,Wild,Play face,Vocalized jerky breathing which sounds like coarse low-pitched grunting. They are made with short white noise vocal units,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Peep,Close call,All,Both,Both,Alarm,Wild,No facial expression,Shortest sound uttered by bonobos. Sequences uttered in a non-rhythmic way,"DeWaal1988, Bermejo_Omedes1999, Clay_Archbold_Zuberbuhler2015"
+Pan,paniscus,Peep,Close call,All,Both,Both,Play,Wild,No facial expression,Shortest sound uttered by bonobos. Sequences uttered in a non-rhythmic way,"DeWaal1988, Bermejo_Omedes1999, Clay_Archbold_Zuberbuhler2015"
+Pan,paniscus,Peep,Close call,All,Both,Both,Feeding,Wild,No facial expression,Shortest sound uttered by bonobos. Sequences uttered in a non-rhythmic way,"DeWaal1988, VanKrunkelsven1996, Bermejo_Omedes1999, Clay_Zuberbuhler2009"
+Pan,paniscus,Peep,Close call,All,Both,Both,Agonistic,Wild,No facial expression,Shortest sound uttered by bonobos. Sequences uttered in a non-rhythmic way,"DeWaal1988, Bermejo_Omedes1999, Clay_Archbold_Zuberbuhler2015"
+Pan,paniscus,Peep,Close call,All,Both,Both,Grooming,Wild,No facial expression,Shortest sound uttered by bonobos. Sequences uttered in a non-rhythmic way,"DeWaal1988, Bermejo_Omedes1999, Clay_Archbold_Zuberbuhler2015"
+Pan,paniscus,Peep-yelp,Close call,All,Both,Both,Agonistic,Wild,Teeth-baring with closed mouth,Pure tonal unmodulated sound with no or few harmonics. Longer in duration than other peep sounds,"DeWaal1988, Bermejo_Omedes1999, Clay_Zuberbuhler2009"
+Pan,paniscus,Pout moan,Close call,All,Both,Both,Alarm,Wild,Pout face,Soft and short vocalization that sound like a whining ‘hoo-hoo’. Resemble a peep-yelp but with 2 harmonics.,"DeWaal1988, Bermejo_Omedes1999, Genty2019"
+Pan,paniscus,Pout moan,Close call,All,Both,Both,Play,Wild,Pout face,Soft and short vocalization that sound like a whining ‘hoo-hoo’. Resemble a peep-yelp but with 2 harmonics.,"DeWaal1988, Bermejo_Omedes1999, Genty2019"
+Pan,paniscus,Pout moan,Close call,All,Both,Both,Affiliative,Wild,Pout face,Soft and short vocalization that sound like a whining ‘hoo-hoo’. Resemble a peep-yelp but with 2 harmonics.,"DeWaal1988, Bermejo_Omedes1999, Genty2019"
+Pan,paniscus,Rasp scream,Close call,All,Both,Subordinate,Agonistic,Wild,NA,Modulated scream which sounds hoarser and more rasping than the other scream types.,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Rasp scream,Close call,All,Female,Both,Copulation,Wild,NA,Modulated scream which sounds hoarser and more rasping than the other scream types.,"DeWaal1988, Clay_Zuberbuhler2011a"
+Pan,paniscus,Whistle,Close call,All,Both,Both,Play,Wild,NA,Call composed by series of whistles with variables shapes. Commonly the series have 1-3 units.,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Whistle,Close call,All,Both,Both,Feeding,Wild,NA,Call composed by series of whistles with variables shapes. Commonly the series have 1-3 units.,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Whistle,Close call,All,Both,Both,Grooming,Wild,NA,Call composed by series of whistles with variables shapes. Commonly the series have 1-3 units.,"DeWaal1988, Bermejo_Omedes1999"
+Pan,paniscus,Yelp,Close call,All,Both,Both,Feeding,Wild,NA,Vocalization with a rapidly decreasing frequency composed by 2-3 units,"DeWaal1988, Bermejo_Omedes1999, Clay_Zuberbuhler2009"

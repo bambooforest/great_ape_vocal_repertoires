@@ -1,0 +1,101 @@
+---
+title: "Great apes vocal repertoires data checks"
+author: "Steven Moran"
+date: "(`r format(Sys.time(), '%B %d, %Y')`)"
+output:
+  github_document
+---
+
+```{r, message=FALSE}
+library(tidyverse)
+library(bib2df)
+```
+
+Read in the spreadsheet data and check for typos.
+
+```{r, message=FALSE}
+df <- read_csv('../Summary_Vocal_Repertoires_Great_Apes.csv')
+```
+
+```{r}
+table(df$Genus)
+```
+
+```{r}
+table(df$Species)
+```
+
+```{r}
+table(df$Call)
+```
+
+```{r}
+table(df$Call_type)
+```
+
+```{r}
+table(df$Sex)
+```
+
+```{r}
+table(df$Hierarchy)
+```
+
+```{r}
+table(df$Context)
+```
+
+```{r}
+table(df$Environment)
+```
+
+```{r}
+table(df$Facial_expression)
+```
+
+Check the references
+
+```{r}
+references <- str_split(df$References, ",")
+references <- references %>% unlist()
+references <- str_trim(references)
+references <- unique(references)
+references <- sort(references)
+```
+
+Get the bibtex IDs from the bibtex file:
+
+```{r, warning=FALSE, message=FALSE}
+path <- '../References/Table_references.bib'
+all <- bib2df(path)
+
+bib <- c(all$BIBTEXKEY)
+bib <- sort(bib)
+```
+
+Check for duplicates:
+
+```{r}
+table(bib)
+```
+
+Here are the duplicates:
+
+```{r}
+bib[which(duplicated(bib))]
+```
+
+Check what's listed in the table, but is not in the references.
+
+```{r}
+setdiff(references, bib)
+```
+
+Check what's in the bibtex references but not listed in the table.
+
+```{r}
+setdiff(bib, references)
+```
+
+
+
