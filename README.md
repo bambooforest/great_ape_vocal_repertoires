@@ -1,4 +1,4 @@
-# Great_apes_vocal_repertoires
+# Great ape vocal repertoires
 
 Supplementary marierials for:
 
