@@ -2,7 +2,7 @@
 
 Supplementary marierials for:
 
->>> Moran, Steven, Marco Maiolini, and Adriano Lameira. 2022. Great ape vocal repertoires are similar in size: now what? In A. Ravignani et al. (Eds.), Proceedings of the Joint Conference on Language Evolution (JCOLE 2022). September 5-8, Kanazawa, Japan. Online: https://evolang.org/jcole2022/proceedings/jcole2022_proceedings.pdf
+>>> Moran, Steven, Marco Maiolini, and Adriano Lameira. 2022. Great ape vocal repertoires are similar in size: now what? In A. Ravignani et al. (Eds.), Proceedings of the Joint Conference on Language Evolution (JCOLE 2022), 515–516, September 5-8, Kanazawa, Japan. Online: https://evolang.org/jcole2022/proceedings/jcole2022_proceedings.pdf
 
 The [summary_vocal_repertoire_great_apes](summary_great_ape_vocal_repoertoires.csv) table gives a summary of the published data on (non-human) great ape vocalizations.
 
